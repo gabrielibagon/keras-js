@@ -12,3 +12,5 @@ export * from './normalization'
 export * from './noise'
 export * from './wrappers'
 export * from './legacy'
+export * from './custom'
+
